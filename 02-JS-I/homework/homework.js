@@ -89,7 +89,7 @@ function mayorQueCincuenta(num) {
 }
 
 function obtenerResto(x, y) {
-  var x/y 
+  var x /y 
 }
   
 function esPar(num) {
@@ -127,7 +127,7 @@ function redondearNumero(num) {
 }
 
 function redondearHaciaArriba(num) {
-  retun match.random (num)
+  return match.random (num)
 }
 
 function numeroRandom() {
